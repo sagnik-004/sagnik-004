@@ -30,7 +30,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-004&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=sagnik-004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sagnik-004&show_icons=true&line_height=20&theme=radical"/>
 </td>
 </tr>
 </table>
