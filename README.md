@@ -9,4 +9,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I prefer tea over coffee
 
-![My GitHub Profile image](https://github.com/sagnik-004.png)
+```diff
+-const name = 'Sagnik.exe';
++const name = 'Sagnik Raha';
+console.log(name);
+```
+        
