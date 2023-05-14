@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Sagnik Raha 
-### Welcome to my GitHub profile 
+###   Welcome to my GitHub profile 
 
 - 🔭 I’m pursuing B.Tech in CSE from Institute of Engineering And Management, Kolkata
 - 👨🏻‍💻 I’m currently working on Open Source contribution for GSSoC'23
@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I prefer tea over coffee
 
-![Img](https://imgur.com/t/programmerhumor/S7S1G4a)
+![My GitHub Profile image](https://github.com/sagnik-004.png)
