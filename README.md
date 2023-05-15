@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/sagnik-004/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" height="230" />
 
 - 🔭 I’m pursuing B.Tech in CSE from IEM, Kolkata
 - 👨🏻‍💻 I’m currently working on Open Source contribution for [GSSoC'23](https://gssoc.girlscript.tech/)
