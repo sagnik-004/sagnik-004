@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Sagnik Raha</h1>
+<h1 align="center"><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi there, I'm Sagnik Raha</h1>
 
 <h3 align="center">Welcome to my GitHub profile </h3>
 <p align="center"> 
