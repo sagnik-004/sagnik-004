@@ -9,10 +9,9 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" height="230" />
 
 - 🔭 I’m pursuing B.Tech in CSE from IEM, Kolkata
-- 👨🏻‍💻 I’m currently working on Open Source contribution for [GSSoC'23](https://gssoc.girlscript.tech/)
-- 🌱 I’m currently learning C language
-- 🤔 I’m looking for help with learning Web Dev
-- 😄 Pronouns: He/Him
+- 👨🏻‍💻 I’m currently working on Personal projects
+- 🌱 I’m currently learning C++ and JS
+- 🤔 I’m looking for help with learning DSA
 - ⚡ Fun fact: I prefer tea over coffee
 <br>
 <br>
