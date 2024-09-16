@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30"/> Hi there, I'm Sagnik Raha</h1>
+<h1 align="center">Hi there, I'm Sagnik Raha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30"/> </h1>
 
 <h3 align="center">Welcome to my GitHub profile </h3>
 <p align="center"> 
@@ -6,13 +6,15 @@
   <img src="https://profile-counter.glitch.me/sagnik-004/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="370px" height="230" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350px" height="230" />
 
 - 🔭 I’m pursuing B.Tech in CSE from IEM, Kolkata
 - 👨🏻‍💻 I’m currently working on <a href="https://github.com/sagnik-004/Sonoriq">Sonoriq</a>
 - 🌱 I’m currently learning C++ and JS
 - 🤔 I’m not looking for help with anything rn
 - ⚡ Fun fact: Xerneas is based on the Celtic horned god Cernunnos
+<br>
+<br>
 <br>
 <br>
 <br>
